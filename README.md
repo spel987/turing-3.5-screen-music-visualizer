@@ -17,6 +17,7 @@ Like this one:
 <div align="center">
 <img src="https://i.imgur.com/XWWROyi.jpeg" width="300">
 </div>
+
 ### ⚙️ OS:
 Only Windows is supported by this script. This limitation comes from the library (winrt) used to retrieve information from the media being played.
 
